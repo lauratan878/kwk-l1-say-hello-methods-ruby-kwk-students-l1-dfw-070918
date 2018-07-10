@@ -2,3 +2,4 @@
 def say_hello(name)
   puts "Hi #{name}""
 end
+say_hello ("Laura")
